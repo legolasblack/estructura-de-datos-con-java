@@ -23,25 +23,25 @@ public class lista {
     public nodo getFin() {
         return fin;
     }
-    /**
+    /*
      * @return the inicio
      */
     public nodo getInicio() {
         return inicio;
     }
-    /**
+    /*
      * @param bandera the bandera to set
      */
     public void setBandera(nodo bandera) {
         this.bandera = bandera;
     }
-    /**
+    /*
      * @param fin the fin to set
      */
     public void setFin(nodo fin) {
         this.fin = fin;
     }
-    /**
+    /*
      * @param inicio the inicio to set
      */
     public void setInicio(nodo inicio) {
@@ -61,6 +61,9 @@ public class lista {
             this.fin=nodoauxiliar;
         }
     }
+
+
+
     public static void main(String[] args) {
         System.out.println("hello word");
         lista listpractice= new lista();

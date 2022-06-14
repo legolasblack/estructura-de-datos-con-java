@@ -1,4 +1,4 @@
-//package ordenamientos;
+package ordenamientos;
 
 public class Corriendo {
     public static void main(String[] args) {

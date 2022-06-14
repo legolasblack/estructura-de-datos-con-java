@@ -1,4 +1,4 @@
-//package arboles;
+package arboles;
 
 public class Arbol {
     private Nodo raiz;

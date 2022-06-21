@@ -29,6 +29,7 @@ public class Tipos_Variables {
          * double:
          * char :
          * string:
+         * boolean:
          */
     }
 }

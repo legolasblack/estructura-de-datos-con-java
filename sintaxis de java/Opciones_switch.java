@@ -9,9 +9,9 @@ public class Opciones_switch {
          * se puede utilizar una variable de reserva para la opsion o de no serlo se puede tomar la variable
          * directa al vuelo desde la funcion nextInt() con la instancia de Scanner con nombre entrada.
          */
-        //opcion_elegida=entrada.nextInt();
-       // switch(opcion_elegida){
-        switch(entrada.nextInt()){
+        opcion_elegida=entrada.nextInt();
+        switch(opcion_elegida){
+       // switch(entrada.nextInt()){
             case 1:
             System.out.println("elegiste el cuadrado");
             break;
@@ -26,6 +26,7 @@ public class Opciones_switch {
             break;
             default:
             System.out.println("esta opcion no existe goodbye.");
-        }    
+        } 
+        entrada.close();   
     }
 }

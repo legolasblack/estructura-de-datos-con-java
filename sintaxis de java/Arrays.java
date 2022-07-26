@@ -48,7 +48,8 @@ public class Arrays {
 
 
         /*reccorriendo arreglo de paises con foreach */
-
+        //se seleciona una palabra clave qie reconocera el forech 
+        //y se iguala al nombre del arreglo en este caso elemnto : paises 
         for(String elemento:paises){
             System.out.println(elemento);
         }

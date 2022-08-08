@@ -64,6 +64,7 @@ public class Polimorfismo {
         leon.Make_Sound();
         perro.Name_animal();
         perro.Make_Sound();
+        p2.Make_Sound();
 
 
         gato.Make_Sound();

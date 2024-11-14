@@ -1,5 +1,5 @@
-/* package hackerRank;
-
+ package hackerRank;
+/*
 import java.util.Scanner;
 
 public class OutputFormatting {

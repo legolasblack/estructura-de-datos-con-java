@@ -51,7 +51,7 @@ public class Polimorfismo {
     public static void main(String[] args) {
         Animal leon = new Animal();
 
-        Animal perro = new Perro();
+        Animal perro = new Animal();
         Gato gato = new Gato();
         Perro p2 = new Perro();
 

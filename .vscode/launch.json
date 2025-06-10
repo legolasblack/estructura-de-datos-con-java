@@ -1,0 +1,204 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Clases_Genericas",
+            "request": "launch",
+            "mainClass": "Clases_Genericas",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Clases_abstractas",
+            "request": "launch",
+            "mainClass": "Clases_abstractas",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Declaracion_constantes",
+            "request": "launch",
+            "mainClass": "Declaracion_constantes",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Hello_word",
+            "request": "launch",
+            "mainClass": "Hello_word",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "Interfaces",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Matrices",
+            "request": "launch",
+            "mainClass": "Matrices",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Opciones_switch",
+            "request": "launch",
+            "mainClass": "Opciones_switch",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Practica_array",
+            "request": "launch",
+            "mainClass": "Practica_array",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Recursividad",
+            "request": "launch",
+            "mainClass": "Recursividad",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Recursividad_fibonacci",
+            "request": "launch",
+            "mainClass": "Recursividad_fibonacci",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Recursividad_torres_de_hanoi",
+            "request": "launch",
+            "mainClass": "Recursividad_torres_de_hanoi",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Tipos_Variables",
+            "request": "launch",
+            "mainClass": "Tipos_Variables",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "arbol_de_busqueda_binario",
+            "request": "launch",
+            "mainClass": "arboles.arbol_de_busqueda_binario",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "class_Scanner",
+            "request": "launch",
+            "mainClass": "class_Scanner",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "class_jpotionpane",
+            "request": "launch",
+            "mainClass": "class_jpotionpane",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "class_math",
+            "request": "launch",
+            "mainClass": "class_math",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "class_string",
+            "request": "launch",
+            "mainClass": "class_string",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "estructura_if_and_while",
+            "request": "launch",
+            "mainClass": "estructura_if_and_while",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "LoopI",
+            "request": "launch",
+            "mainClass": "hackerRank.LoopI",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "hackerRank.Solution",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "StdinAndStdout",
+            "request": "launch",
+            "mainClass": "hackerRank.StdinAndStdout",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "helloWord",
+            "request": "launch",
+            "mainClass": "hackerRank.helloWord",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "claseList",
+            "request": "launch",
+            "mainClass": "listas.claseList",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "lista",
+            "request": "launch",
+            "mainClass": "listas.lista",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        },
+        {
+            "type": "java",
+            "name": "Corriendo",
+            "request": "launch",
+            "mainClass": "ordenamientos.Corriendo",
+            "projectName": "estructura-de-datos-con-java_f8fef781"
+        }
+    ]
+}

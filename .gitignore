@@ -1,0 +1,102 @@
+# Plantilla .gitignore para proyecto Java (comentada)
+# Guarda este contenido en .gitignore en la raíz del repo
+
+# -------------------------
+# Archivos compilados/artefactos
+# -------------------------
+# Clases compiladas
+*.class
+
+# Paquetes / artefactos JAR/WAR/EAR generados por el build
+*.jar
+*.war
+*.ear
+
+# Directorios de salida comunes
+/target/      # Maven
+/build/       # Gradle o builds generales
+/bin/         # compilaciones antiguas
+
+# -------------------------
+# Ficheros de dependencias / empaquetado local
+# -------------------------
+/lib/
+/libs/
+
+# -------------------------
+# Herramientas de construcción
+# -------------------------
+/.gradle/
+/mvnw                       # wrapper binarios (opcional según proyecto)
+/mvnw.cmd
+
+# -------------------------
+# IDEs y editores
+# -------------------------
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# NetBeans
+/nbproject/private/
+
+# VS Code
+/.vscode/
+
+# -------------------------
+# Archivos del sistema operativo
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs, reportes y temporales
+# -------------------------
+*.log
+*.tmp
+*.swp       # vim swap
+session.lock
+
+# -------------------------
+# Cobertura y reportes de prueba
+# -------------------------
+/coverage/
+/target/site/
+/build/reports/
+
+# -------------------------
+# Archivos de configuración secretos / entorno
+# -------------------------
+# Ignorar variables de entorno locales (guardar ejemplo ejemplo)
+/.env
+/.env.local
+# Mantener un ejemplo en el repositorio:
+!.env.example
+
+# -------------------------
+# Negaciones/ejemplos especiales
+# -------------------------
+# Ignorar todos los archivos .secret pero mantener uno concreto
+*.secret
+!important.secret
+
+# -------------------------
+# Archivo específico del proyecto
+# -------------------------
+# Si quieres ignorar todo en una carpeta menos un archivo:
+# /config/*
+# !/config/settings.xml
+
+
+# -------------------------
+# Archivos autogenerados
+# -------------------------
+.DS_Store
+# -------------------------
+# Fin de plantilla
+# -------------------------
